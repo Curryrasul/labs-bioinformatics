@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "needleman-wunsch",
+    "hirschberg",
+    "nw-affin",
+]
